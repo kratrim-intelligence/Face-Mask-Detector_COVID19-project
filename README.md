@@ -31,3 +31,5 @@
  reduce the number of multiplications which reduces the size and
  processing required. The size of MobileNet on disk is about 17MB
  only and it has 4.2 million parameters.
+
+ **Images in the 'test images' directory are used only for educational purposes. Their rights belong to their respective owners.
